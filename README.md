@@ -1,9 +1,11 @@
 # Olá, eu sou o João Victor! 👋
 
 🎓 **Estudante de Ciência da Computação** na UERJ desde 2021.1  
-🚀 **Desenvolvedor Fullstack** em formação, com foco no **Frontend**  
+🚀 **Desenvolvedor Fullstack** em formação, com foco no **Frontend**
 
-📘 **Habilidades Técnicas:**  
+---
+
+## 📘 **Habilidades Técnicas**
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
@@ -12,39 +14,47 @@
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](#)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](#)
 
-💡 **Experiência:**  
-- Desenvolvimento de um projeto de restaurante com site (HTML, CSS, Bootstrap) e aplicativo mobile (Angular com TypeScript).  
+---
 
-🎯 **Objetivo:**  
+## 💡 **Experiência**
+- **Projeto Restaurante (2024)**:
+  - Desenvolvimento de site responsivo utilizando HTML, CSS e Bootstrap.
+  - Criação de aplicativo mobile com Angular e TypeScript, permitindo pedidos online.
+  - Integração de funcionalidades interativas para melhorar a experiência do usuário.
+
+---
+
+## 🎯 **Objetivo**
 Busco me consolidar na área de tecnologia, aplicando minhas habilidades em projetos desafiadores que contribuam para minha evolução profissional.
 
 ---
 
-📞 **Contato:**  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:j.v.castro@hotmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-3a1910318/)  
+## 📞 **Contato**
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:j.v.castro@hotmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-3a1910318/)
 
 ---
 
-💻 **Stats:**  
+## 💻 **Estatísticas**
 ![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoDev00&show_icons=true&theme=radical)
-
-🌟 **Linguagens Mais Usadas:**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoDev00&layout=compact&theme=radical)
 
 ---
 
-📝 **Sobre mim:**  
-- 🌟 _"Gosto de desafios e estou sempre em busca de aperfeiçoamento, utilizando minha comunicação, esforço e adaptabilidade para superar obstáculos e alcançar objetivos."_  
+## 📄 **Currículo**
+Confira meu currículo completo clicando no link abaixo:
 
+📥 **[Baixe Meu Currículo](https://github.com/user-attachments/files/18039907/Curriculo.moderno.para.profissional.de.TI.pdf)**
 
-🚀 **Pronto para novos desafios?**  
-Se você procura alguém apaixonado por tecnologia e desafios, [entre em contato comigo!](mailto:j.v.castro@hotmail.com)
+---
 
-- 🌎 **Baseado no Rio de Janeiro, Brasil**  
+## 📝 **Sobre mim**
+🌟 _"Gosto de desafios e estou sempre em busca de aperfeiçoamento, utilizando minha comunicação, esforço e adaptabilidade para superar obstáculos e alcançar objetivos."_  
 
-🌐 **Ícones Sociais:**  
+---
+
+## 🌐 **Rede Sociais**
 <p>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-3a1910318/">
     <img alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
@@ -53,7 +63,3 @@ Se você procura alguém apaixonado por tecnologia e desafios, [entre em contato
     <img alt="Email" src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
   </a>
 </p>
-
-
-
-
