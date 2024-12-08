@@ -63,3 +63,9 @@ Confira meu currículo completo clicando no link abaixo:
     <img alt="Email" src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
   </a>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoDev00/JoaoDev00/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoDev00/JoaoDev00/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/JoaoDev00/JoaoDev00/output/github-snake.svg" />
+</picture>
