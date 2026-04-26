@@ -45,7 +45,10 @@ Busco me consolidar na área de tecnologia, aplicando minhas habilidades em proj
 ## 📄 **Currículo**
 Confira meu currículo completo clicando no link abaixo:
 
-📥 **[Baixe Meu Currículo](https://github.com/user-attachments/files/18039907/Curriculo.moderno.para.profissional.de.TI.pdf)**
+
+
+
+📥 **[Baixe Meu Currículo](https://github.com/user-attachments/files/27103614/Curriculo.profissional.de.TI.pdf)**
 
 ---
 
